@@ -2,7 +2,7 @@
      <div class="card">
           <div class="card-title">{{ product.name }}</div>
           <div class="card-body">
-               <i class="icofont-10x icofont-carrot"></i>
+               <ProductIcon :product="product"/>
                <form>
                     <div class="row">
                          <div class="cell">
@@ -37,7 +37,9 @@
 </template>
 
 <script>
+import ProductIcon from './ProductIcon.vue'
 export default {
+  components: { ProductIcon },
   props: ['product', 'index', 'addToCart'],
   data () {
     return {
