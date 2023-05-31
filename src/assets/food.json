@@ -3,105 +3,165 @@
     "id": 1,
     "name": "Raddishes",
     "icon": "raddish",
-    "price": { "INR": 3.26, "NOK": 17.43 },
-    "type": "vegetable"
+    "price": {
+      "INR": 6,
+      "NOK": 17
+    },
+    "type": "vegetable",
+    "discount": "10"
   },
   {
     "id": 2,
     "name": "Artichokes",
     "icon": "artichoke",
-    "price": { "INR": 9.44, "NOK": 15.82 },
-    "type": "vegetable"
+    "price": {
+      "INR": 9,
+      "NOK": 15
+    },
+    "type": "vegetable",
+    "discount": "12"
   },
   {
     "id": 3,
     "name": "Broccoli",
     "icon": "broccoli",
-    "price": { "INR": 5.2, "NOK": 16.66 },
-    "type": "vegetable"
+    "price": {
+      "INR": 5,
+      "NOK": 16
+    },
+    "type": "vegetable",
+    "discount": "40"
   },
   {
     "id": 5,
     "name": "Cabbages",
     "icon": "cabbage",
-    "price": { "INR": 0.95, "NOK": 62.33 },
-    "type": "vegetable"
+    "price": {
+      "INR": 4,
+      "NOK": 60
+    },
+    "type": "vegetable",
+    "discount": "8"
   },
   {
     "id": 6,
     "name": "Cherries",
     "icon": "cherry",
-    "price": { "INR": 1.04, "NOK": 62.5 },
-    "type": "fruit"
+    "price": {
+      "INR": 3,
+      "NOK": 62
+    },
+    "type": "fruit",
+    "discount": "23"
   },
   {
     "id": 7,
     "name": "Carrots",
     "icon": "carrot",
-    "price": { "INR": 4.82, "NOK": 72.74 },
-    "type": "vegetable"
+    "price": {
+      "INR": 11,
+      "NOK": 72
+    },
+    "type": "vegetable",
+    "discount": "30"
   },
   {
     "id": 8,
     "name": "Corn",
     "icon": "corn",
-    "price": { "INR": 7.53, "NOK": 99.43 },
-    "type": "vegetable"
+    "price": {
+      "INR": 8,
+      "NOK": 99
+    },
+    "type": "vegetable",
+    "discount": "5"
   },
   {
     "id": 9,
     "name": "Grapes",
     "icon": "grapes",
-    "price": { "INR": 4.94, "NOK": 88.29 },
-    "type": "fruit"
+    "price": {
+      "INR": 6,
+      "NOK": 88
+    },
+    "type": "fruit",
+    "discount": "9"
   },
   {
     "id": 10,
     "name": "Onions",
     "icon": "onion",
-    "price": { "INR": 6.45, "NOK": 69.53 },
-    "type": "vegetable"
+    "price": {
+      "INR": 12,
+      "NOK": 69
+    },
+    "type": "vegetable",
+    "discount": "15"
   },
   {
     "id": 11,
     "name": "Oranges",
     "icon": "orange",
-    "price": { "INR": 9.95, "NOK": 96.53 },
-    "type": "fruit"
+    "price": {
+      "INR": 10,
+      "NOK": 96
+    },
+    "type": "fruit",
+    "discount": "20"
   },
   {
     "id": 12,
     "name": "Peas",
     "icon": "peas",
-    "price": { "INR": 2.61, "NOK": 65.74 },
-    "type": "vegetable"
+    "price": {
+      "INR": 7,
+      "NOK": 65
+    },
+    "type": "vegetable",
+    "discount": "25"
   },
   {
     "id": 13,
     "name": "Pineapples",
     "icon": "pineapple",
-    "price": { "INR": 1.62, "NOK": 35.22 },
-    "type": "fruit"
+    "price": {
+      "INR": 13,
+      "NOK": 35
+    },
+    "type": "fruit",
+    "discount": "30"
   },
   {
     "id": 14,
     "name": "Steaks",
     "icon": "steak",
-    "price": { "INR": 8.32, "NOK": 83.08 },
-    "type": "meat"
+    "price": {
+      "INR": 8,
+      "NOK": 83
+    },
+    "type": "meat",
+    "discount": "10"
   },
   {
     "id": 15,
     "name": "Watermelons",
     "icon": "watermelon",
-    "price": { "INR": 5.08, "NOK": 89.69 },
-    "type": "fruit"
+    "price": {
+      "INR": 15,
+      "NOK": 89
+    },
+    "type": "fruit",
+    "discount": "18"
   },
   {
     "id": 16,
     "name": "Sausages",
     "icon": "sausage",
-    "price": { "INR": 3.69, "NOK": 26.68 },
-    "type": "meat"
+    "price": {
+      "INR": 16,
+      "NOK": 26
+    },
+    "type": "meat",
+    "discount": "25"
   }
 ]
