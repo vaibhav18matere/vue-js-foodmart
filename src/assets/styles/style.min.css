@@ -22,7 +22,8 @@ html {
 }
 
 body {
-     margin: 0
+     margin: 0;
+     padding: 0
 }
 
 main {
@@ -91,8 +92,10 @@ img {
      border-style: none
 }
 
-button, a, i{
-    cursor: pointer;
+button,
+a,
+i {
+     cursor: pointer;
 }
 
 button,
