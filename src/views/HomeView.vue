@@ -7,7 +7,7 @@
     </div>
 
     <main class="wrapper">
-      <h2>Recommended</h2>
+      <h2>Recommended Products</h2>
 
       <div class="recommended">
         <ProductCart v-for="(product, index) in inventory.slice(0, 3)" class="card" :key="product.id" :index="index" :product="product" :addToCart="addToCart"/>
